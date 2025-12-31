@@ -26,19 +26,3 @@ Data source link: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
-## Data Modeling
-![Uber Data Model](https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/3b9c2377-cc26-498c-a2e7-c4c857b94b80)
-
-## ETL Pipeline
-<img width="334" alt="ETL pipeline" src="https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/2c3dbd03-4a4a-433e-9455-78527fa1831b">
-
-
-
-## Looker Dashboard
-https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/4c7ad7b2-15b6-4a0c-aba8-8754cfef91d5
-
-
-
-
-## Contact
-Adad Al Shabab(sababadad74@gmail.com)
